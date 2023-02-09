@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello Big World
+=======
+Hello Small World
+>>>>>>> 9c0733a4047f65460378c6af1cf8362fc7d3675a
 I'm Ivan
 And day is great
